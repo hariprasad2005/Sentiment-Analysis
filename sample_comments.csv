@@ -1,0 +1,161 @@
+text,sentiment_label,sentiment_score
+"This product is amazing!",1,0.95
+"I absolutely love this!",1,0.9
+"This is terrible.",0,0.1
+"I hate this so much.",0,0.05
+"The service was okay.",1,0.6
+"I don't like this at all.",0,0.2
+"This is the best thing I've bought!",1,0.98
+"Not what I expected, but it's fine.",1,0.5
+"This is horrible!",0,0.0
+"Quite decent for the price.",1,0.7
+"Really disappointing.",0,0.15
+"Works as advertised, no complaints.",1,0.85
+"Total waste of money.",0,0.05
+"Exceeded my expectations!",1,0.95
+"Wouldn't recommend to anyone.",0,0.1
+"Very happy with the purchase.",1,0.9
+"It does the job.",1,0.6
+"Awful experience.",0,0.05
+"This item is mediocre at best.",0,0.4
+"Highly recommend it to others.",1,0.95
+"Too expensive for the quality.",0,0.2
+"I am extremely satisfied.",1,0.97
+"The packaging was damaged, but the product is fine.",0,0.4
+"Customer service was unhelpful.",0,0.1
+"Fast delivery and great product!",1,0.9
+"The design is sleek and modern.",1,0.85
+"Poor build quality, very fragile.",0,0.15
+"I would buy this again.",1,0.9
+"Shipping was delayed, but the product is good.",1,0.6
+"This is not worth the price.",0,0.1
+"Solid performance and great features.",1,0.88
+"I expected more from this brand.",0,0.25
+"A must-have item!",1,0.97
+"The instructions were unclear.",0,0.3
+"I can't believe how well this works.",1,0.95
+"Completely useless.",0,0.05
+"Exceeded all my expectations.",1,0.98
+"I will never buy this again.",0,0.05
+"The battery life is great!",1,0.9
+"Quality is subpar.",0,0.2
+"The color is vibrant and beautiful.",1,0.85
+"Broke after a few uses.",0,0.1
+"I am thrilled with this purchase.",1,0.96
+"The app is buggy and crashes often.",0,0.15
+"Great value for the money.",1,0.9
+"This saved me a lot of time.",1,0.88
+"Product arrived damaged.",0,0.1
+"I wish I had bought this sooner.",1,0.95
+"The material feels cheap.",0,0.25
+"Very intuitive and easy to use.",1,0.92
+"Overpriced for what it offers.",0,0.2
+"I had high hopes, but it's disappointing.",0,0.3
+"Fantastic product, highly recommend.",1,0.97
+"The sound quality is superb.",1,0.9
+"Stopped working after a week.",0,0.1
+"This is the best thing ever!",1,0.99
+"The screen quality is terrible.",0,0.2
+"Really good value for money.",1,0.85
+"Poor performance, not recommended.",0,0.15
+"This has exceeded all my expectations!",1,0.97
+"Very frustrating experience.",0,0.05
+"The size is perfect.",1,0.88
+"Not as described.",0,0.2
+"Absolutely love it!",1,0.9
+"Quality is very low.",0,0.1
+"Perfect for my needs.",1,0.95
+"I am not satisfied with this.",0,0.1
+"This works flawlessly.",1,0.9
+"Product quality is poor.",0,0.1
+"Exactly what I was looking for.",1,0.88
+"Very disappointing.",0,0.1
+"This is an essential item for me.",1,0.9
+"It broke after one use.",0,0.05
+"Amazing features for the price.",1,0.9
+"This was a complete waste of money.",0,0.05
+"Exceeded my expectations.",1,0.9
+"Item doesn't match the description.",0,0.2
+"Very user-friendly.",1,0.92
+"I regret buying this.",0,0.1
+"Top quality product.",1,0.95
+"Not happy with the service.",0,0.1
+"Works perfectly.",1,0.9
+"I will never buy from this company again.",0,0.05
+"Impressed with the overall quality.",1,0.9
+"Doesn't perform as expected.",0,0.15
+"Love everything about it.",1,0.97
+"Horrible customer support.",0,0.1
+"Very durable and well-made.",1,0.9
+"Doesn't work at all.",0,0.05
+"I am very satisfied.",1,0.95
+"Fell apart after one use.",0,0.05
+"Highly recommend this to anyone.",1,0.95
+"Very overpriced for what you get.",0,0.2
+"Everything works as expected.",1,0.9
+"Disappointed with the quality.",0,0.1
+"Fast and reliable service.",1,0.9
+"The build quality is terrible.",0,0.1
+"Great product for the price.",1,0.9
+"Arrived damaged, very unhappy.",0,0.05
+"I can't say enough good things about this.",1,0.95
+"Low-quality materials used.",0,0.2
+"Shipping was very fast.",1,0.85
+"The product stopped working within days.",0,0.1
+"Exceeded my expectations in every way.",1,0.95
+"Cheap and flimsy product.",0,0.05
+"Very well-made and functional.",1,0.92
+"Not worth the money.",0,0.1
+"Quick delivery and great product.",1,0.9
+"The product arrived broken.",0,0.05
+"I am very pleased with this.",1,0.9
+"It didn't work as advertised.",0,0.1
+"Great design and very functional.",1,0.9
+"Stopped working after a few uses.",0,0.05
+"I am so happy with this product.",1,0.95
+"Very cheaply made.",0,0.1
+"Perfect for what I need.",1,0.92
+"I will be returning this.",0,0.05
+"The product is very solid and durable.",1,0.9
+"It didn't last very long.",0,0.1
+"Very satisfied with the service.",1,0.9
+"Not worth the hype.",0,0.15
+"This product works exactly as described.",1,0.9
+"The product malfunctioned after a few days.",0,0.05
+"I will definitely buy this again.",1,0.9
+"Very dissatisfied with this purchase.",0,0.05
+"Good product for the money.",1,0.85
+"Very poor customer service.",0,0.1
+"The quality is very good.",1,0.9
+"Arrived on time and works well.",1,0.85
+"Defective right out of the box.",0,0.05
+"I am really impressed with this.",1,0.9
+"The quality is horrible.",0,0.1
+"Perfectly meets my expectations.",1,0.9
+"Stopped working after a short time.",0,0.05
+"The performance is amazing.",1,0.95
+"The item feels very cheaply made.",0,0.1
+"Exactly what I needed.",1,0.9
+"The customer support was useless.",0,0.1
+"Very high-quality product.",1,0.95
+"The product broke after just one use.",0,0.05
+"I am very happy with this purchase.",1,0.9
+"The product is defective.",0,0.05
+"The product has great functionality.",1,0.92
+"Not impressed with the performance.",0,0.2
+"I would definitely recommend this to others.",1,0.95
+"The product is very fragile.",0,0.1
+"I am beyond satisfied with this.",1,0.98
+"The product didn't meet my expectations.",0,0.2
+"Very durable and reliable.",1,0.9
+"It fell apart within a few days.",0,0.1
+"Really high-quality for the price.",1,0.92
+"Terrible customer service experience.",0,0.1
+"The product works perfectly.",1,0.9
+"The product broke shortly after I got it.",0,0.05
+"I am extremely pleased with this product.",1,0.95
+"This is a very low-quality item.",0,0.1
+"Outstanding performance.",1,0.95
+"Very cheap and unreliable.",0,0.05
+"The product is exactly as described.",1,0.9
+"The product arrived damaged and unusable.",0,0.05
